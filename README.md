@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi People!
+
+Samira, here. I like travelling and korean language 
